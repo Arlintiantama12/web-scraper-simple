@@ -59,3 +59,22 @@ A simple web scraper application built with **Node.js** and **Express.js** to sc
    ```bash
    git clone https://github.com/Arlintiantama12/web-scraper-simple.git
    cd web-scraper-simple
+
+2. npm install
+
+3. cd server
+
+4. npm install
+
+5.node server.js
+
+## Usage
+
+1. cd client
+    npm start
+
+2. cd server
+    node server.js
+
+
+
