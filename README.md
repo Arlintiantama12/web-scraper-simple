@@ -70,3 +70,6 @@ A simple web scraper application built with **Node.js** and **Express.js** to sc
 
 
 
+Author
+Arlin Tian Tama
+
